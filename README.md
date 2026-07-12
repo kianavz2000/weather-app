@@ -18,10 +18,10 @@ A simple and clean Weather application built with React and TypeScript.
 ## 📸 Screenshots
 
 ### Main View (Before Search)
-![Main View](./screenshots/main-app.PNG)
+![Main View](./screenshots/main-app.png)
 
 ### Search Feature - City Selected
-![Search Feature - City Selected](./screenshots/after-searching.PNG)
+![Search Feature - City Selected](./screenshots/after-searching.png)
 
 ## Tech Stack
 
