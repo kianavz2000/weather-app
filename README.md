@@ -16,11 +16,11 @@ A simple and clean Weather application built with React and TypeScript.
 - Responsive design
 
 ## 📸 Screenshots
-### Main View
-![Main View](./screenshots/screenshot-main.png)
+### Main View (Before Search)
+![Main View](./screenshots/screenshot-main.PNG)
 
-### Search Feature
-![Search Feature](./screenshots/screenshot-city-chosen.png)
+### Search Feature - City Selected
+![Search Feature - City Selected](./screenshots/screenshot-city-chosen.PNG)
 
 ## Tech Stack
 
