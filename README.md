@@ -69,7 +69,9 @@ This application uses the wttr.in API to fetch weather data. It's a free, anonym
 ## How it works:
 
 The app sends a request to: https://wttr.in/{cityName}?format=j1
+
 The ?format=j1 parameter returns data in JSON format
+
 The app then parses and displays the weather information
 
 ## Author
